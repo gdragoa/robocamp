@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="Easter" type="LIBRARY" format="ROBOT" scope="GLOBAL" generated="2022-10-11T14:48:52Z" specversion="4" source="C:\Python310\lib\site-packages\robot\libraries\Easter.py" lineno="1">
+<version/>
+<doc>Documentation for library ``Easter``.</doc>
+<tags>
+</tags>
+<inits>
+</inits>
+<keywords>
+<kw name="None Shall Pass" lineno="19">
+<arguments repr="who">
+<arg kind="POSITIONAL_OR_NAMED" required="true" repr="who">
+<name>who</name>
+</arg>
+</arguments>
+<doc/>
+<shortdoc/>
+</kw>
+</keywords>
+<datatypes>
+</datatypes>
+<typedocs>
+</typedocs>
+</keywordspec>

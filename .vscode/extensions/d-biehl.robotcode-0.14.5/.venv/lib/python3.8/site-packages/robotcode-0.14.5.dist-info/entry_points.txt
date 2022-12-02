@@ -1,0 +1,4 @@
+[console_scripts]
+robotcode.debugger=robotcode.debugger.__main__:main
+robotcode.language_server=robotcode.language_server.__main__:main
+
