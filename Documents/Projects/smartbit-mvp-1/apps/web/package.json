@@ -1,0 +1,19 @@
+{
+  "name": "smartbit-web",
+  "version": "1.0.1",
+  "description": "Portal do administrador da academia",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "qax"
+  ],
+  "author": "Fernando Papito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.1"
+  }
+}
